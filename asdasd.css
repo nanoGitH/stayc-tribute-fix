@@ -1,0 +1,30 @@
+.abcd {
+    background-image: url("img/stayc.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 0 -160px;
+    margin-bottom: 100px;
+}
+
+.abcdcover {
+    background-color: rgba(0, 0, 0, 0.25);
+}
+
+.abcdhsatu {
+    font-size: 100px;
+    text-shadow: 0 0 8px white;
+}
+
+.membertitle {
+    font-size: 3em;
+}
+
+.membersname {
+    text-decoration: none;
+    color: black;
+}
+
+.crslshadow {
+    text-shadow: 0 0 5px black;    
+}
