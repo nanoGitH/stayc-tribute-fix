@@ -28,3 +28,26 @@
 .crslshadow {
     text-shadow: 0 0 5px black;    
 }
+
+/* Media Queries */
+@media (max-width: 768px) {
+    .abcd {
+        background-image: url("img/STAYC_on_XS.jpg");
+        height: 100vh;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: 0 -50px;
+        margin-bottom: 50px;
+    }
+}
+
+@media (max-width: 576px) {
+    .abcdhsatu {
+        font-size: 50px;
+        display: none;
+    }
+    
+    .abcdcover {
+        background-color: rgba(0, 0, 0, 0);
+    }
+}
