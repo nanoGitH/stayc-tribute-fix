@@ -1,0 +1,1 @@
+view: https://nanogith.github.io/stayc-tribute-fix/
